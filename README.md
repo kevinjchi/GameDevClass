@@ -22,8 +22,3 @@ None
 * **Kevin Jeu Chiem** - *Initial work* - [kevinjchi](https://github.com/kevinjchi)
 
 See also [kaijc](https://github.com/kaijc) who participated in this project.
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-http://www.twitter.com/awfulmedia
