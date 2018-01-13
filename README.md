@@ -1,10 +1,8 @@
 # GameDevClass
-# Classes UNITY
-
 
 ## Getting Started
 
-Add classes to objects in Unity.
+Add classes to objects in Unity. This will change the behaviour of game-objects.
 
 ### Prerequisites
 
