@@ -19,9 +19,9 @@ None
 
 ## Authors
 
-* **Kevin Jeu Chiem** - *Initial work* - [PurpleBooth](https://github.com/kevinjchi)
+* **Kevin Jeu Chiem** - *Initial work* - [kevinjchi](https://github.com/kevinjchi)
 
-See also [PurpleBooth](https://github.com/kaijc) who participated in this project.
+See also [kaijc](https://github.com/kaijc) who participated in this project.
 
 ## Acknowledgments
 
